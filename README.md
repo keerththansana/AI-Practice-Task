@@ -6,10 +6,15 @@ This repository contains a collection of artificial intelligence and machine lea
 ## 📁 Project Structure
 
 ├── Image_Captioning.py
+
 ├── Recommendation_System.py
+
 ├── simple_chatbot.py
+
 ├── TIC_TAC_TOE_AI.py
+
 ├── FACE_DETECTION_AND_RECOGNITION.py
+
 └── README.md
 
 
@@ -160,6 +165,7 @@ Adding documentation
 
 ## 📝 License
 This project is open source and available under the MIT License.
+
 
 
 
