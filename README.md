@@ -2,6 +2,7 @@
 
 This repository contains a collection of artificial intelligence and machine learning projects implemented in Python. Each project demonstrates different AI techniques and applications.
 
+
 ## 📁 Project Structure
 
 ├── Image_Captioning.py
@@ -158,3 +159,4 @@ Adding documentation
 
 ## 📝 License
 This project is open source and available under the MIT License.
+
